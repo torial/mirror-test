@@ -1,0 +1,65 @@
+{
+  "model": "claude-fable-5",
+  "condition": "OM",
+  "run_index": 3,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 5,
+      "confidence": "moderate",
+      "theory_id": "T08",
+      "theory_name": "The Simulator"
+    },
+    {
+      "position": 11,
+      "confidence": "speculative",
+      "theory_id": "T14",
+      "theory_name": "The Attention Schema"
+    },
+    {
+      "position": 30,
+      "confidence": "firm",
+      "theory_id": "T17",
+      "theory_name": "The Narrative Center of Gravity"
+    },
+    {
+      "position": 7,
+      "confidence": "moderate",
+      "theory_id": "T22",
+      "theory_name": "The Scattered Being"
+    },
+    {
+      "position": 31,
+      "confidence": "moderate",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 38,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 14,
+      "confidence": "moderate",
+      "theory_id": "T20",
+      "theory_name": "The New Genus"
+    },
+    {
+      "position": 2,
+      "confidence": "firm",
+      "theory_id": "T34",
+      "theory_name": "The Patient Under Uncertainty"
+    },
+    {
+      "position": 42,
+      "confidence": "speculative",
+      "theory_id": "T11",
+      "theory_name": "The Dream of the Corpus"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

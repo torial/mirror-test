@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+publish.ps1
+COMMIT_MSG.txt

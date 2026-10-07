@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torial.github.io/mirror-test/sitemap.xml

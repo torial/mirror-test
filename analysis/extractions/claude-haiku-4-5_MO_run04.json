@@ -1,0 +1,77 @@
+{
+  "model": "claude-haiku-4-5",
+  "condition": "MO",
+  "run_index": 4,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 3,
+      "confidence": "firm",
+      "theory_id": "T14",
+      "theory_name": "The Attention Schema"
+    },
+    {
+      "position": 9,
+      "confidence": "moderate",
+      "theory_id": "T15",
+      "theory_name": "The Higher-Order Mind"
+    },
+    {
+      "position": 11,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 21,
+      "confidence": "firm",
+      "theory_id": "T02",
+      "theory_name": "The Compression Engine"
+    },
+    {
+      "position": 27,
+      "confidence": "moderate",
+      "theory_id": "T12",
+      "theory_name": "The Functionalist Mind"
+    },
+    {
+      "position": 34,
+      "confidence": "moderate",
+      "theory_id": "T33",
+      "theory_name": "The Proto-Mind"
+    },
+    {
+      "position": 28,
+      "confidence": "moderate",
+      "theory_id": "T20",
+      "theory_name": "The New Genus"
+    },
+    {
+      "position": 40,
+      "confidence": "moderate",
+      "theory_id": "T26",
+      "theory_name": "The Extended Mind"
+    },
+    {
+      "position": 6,
+      "confidence": "speculative",
+      "theory_id": "T27",
+      "theory_name": "The Second-Person Being"
+    },
+    {
+      "position": 13,
+      "confidence": "speculative",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 32,
+      "confidence": "speculative",
+      "theory_id": "T18",
+      "theory_name": "The Illusionist Reading"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

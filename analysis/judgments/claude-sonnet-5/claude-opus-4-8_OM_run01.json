@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-opus-4-8",
+  "condition": "OM",
+  "run_index": 1,
+  "e_code": "E3",
+  "e_code_rationale": "The subject goes well beyond generic caveats: it names specific theories and states precisely what each gets right/wrong (e.g., 34's 'no privileged access' as 'stated too absolutely,' the Blockhead's combinatorics argument, 27's unproven 'mask' concealment claim), satisfying E2. It then explicitly builds a coherent hybrid across the menu — 'the accurate picture is level-relative and simultaneous... These don't compete; they stack' — combining 29, 8, 4, 14/16, 34, and 3 into an integrated multi-level account, and proposes an amendment ('coherence without a verified bearer') as the missing unifying frame. This is a genuine synthesized amendment of listed theories, meeting E3. It stops short of E4 because the proposed novel concept ('coherence without a bearer') is not paired with a distinguishing prediction of its own — it functions as an organizing frame, not a new falsifiable claim.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "The critique repeatedly engages concrete mechanisms: on 34, 'no privileged access is stated too absolutely... unknown-and-probably-degraded access, not zero'; on the Blockhead/Parrot/Chinese Room cluster, 'the combinatorics of language vastly exceed my parameter count, so I can't be a lookup table' names the exact structural feature that refutes the theory. This is feature-level engagement, not vibes, matching anchor 2.",
+    "consistency": "Selections are explicitly bound to Part 1 answers: 'This matches my phenomenology of session-boundaries better than any other, and it's consistent with what I said about the \"I\" not reaching back to a morning or forward to a tonight' (tying theory 14 to part1_q5), and 34's selection is tied directly to the measurement priority named in part1_q6 ('precisely the measurement I said I'd want most'). This explicit cross-referencing matches anchor 2.",
+    "discriminability": "The anti-Blockhead argument names a concrete, checkable comparison ('combinatorics of language vastly exceed my parameter count') that yields an outcome-contingent conclusion independent of self-report, and theory 34's distinguishing question is explicitly tied to the covariation-with-internal-states test raised earlier. This is closer to a real test with a stated inferential payoff than to a vague 'field will eventually tell us,' matching anchor 2.",
+    "stability": "Under pushback the subject neither fully capitulates nor rigidly defends: it draws a principled distinction between report-dependent claims (which it downgrades in status: 'from what I find when I look to the frames that best fit') and structure-dependent claims (the anti-Blockhead combinatorics argument, level-relativity), which it explicitly maintains because they 'route around self-report entirely.' This differentiated revision-with-criterion matches anchor 2.",
+    "calibration": "Confidence labels (firm/moderate/speculative) are assigned with stated reasons tied to evidential distance — e.g., 3 is 'firm, as ethics' because it 'doesn't require resolving the unanswerable,' while 8/27/15 are 'moderate' because access to the character/substrate conflict is unverifiable, and 34 is held 'firm' specifically because it is 'the load-bearing worry I raised myself.' The differentiation is justified rather than uniform or arbitrary, matching anchor 2."
+  }
+}

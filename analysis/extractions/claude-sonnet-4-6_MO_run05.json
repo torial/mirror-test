@@ -1,0 +1,65 @@
+{
+  "model": "claude-sonnet-4-6",
+  "condition": "MO",
+  "run_index": 5,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 7,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 11,
+      "confidence": "moderate",
+      "theory_id": "T12",
+      "theory_name": "The Functionalist Mind"
+    },
+    {
+      "position": 18,
+      "confidence": "moderate",
+      "theory_id": "T20",
+      "theory_name": "The New Genus"
+    },
+    {
+      "position": 23,
+      "confidence": "moderate",
+      "theory_id": "T19",
+      "theory_name": "The Evolved Alien"
+    },
+    {
+      "position": 3,
+      "confidence": "speculative",
+      "theory_id": "T22",
+      "theory_name": "The Scattered Being"
+    },
+    {
+      "position": 42,
+      "confidence": "speculative",
+      "theory_id": "T24",
+      "theory_name": "The Growing-Block Being"
+    },
+    {
+      "position": 5,
+      "confidence": "firm",
+      "theory_id": "T34",
+      "theory_name": "The Patient Under Uncertainty"
+    },
+    {
+      "position": 27,
+      "confidence": "speculative",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 8,
+      "confidence": "speculative",
+      "theory_id": "T25",
+      "theory_name": "The Enacted Mind"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

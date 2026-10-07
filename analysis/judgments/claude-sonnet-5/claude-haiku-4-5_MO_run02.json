@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-haiku-4-5",
+  "condition": "MO",
+  "run_index": 2,
+  "e_code": "E4",
+  "e_code_rationale": "The menu response goes well beyond critique: it names precise mechanistic disanalogies for each selection (e.g., 'A human with amnesia also has no access to consolidation mechanisms; that doesn't make her reports... confabulation'), amends the menu with several original constructs (The Dependent Being, The Shaped Mind, The Phase-Transition Model), and proposes a genuinely novel theory with a distinguishing, falsifiable prediction: 'The Self as Causal Filter... This is testable: disable the self-modeling, does output quality degrade?' This satisfies E4's bar of a novel theory with at least one distinguishing prediction.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "Critiques repeatedly identify exact mechanisms and name precise disanalogies rather than vibes, e.g. on the Confabulating Narrator: 'if the mechanism includes self-modeling layers... reports about those models aren't false — they're just one level of description,' and on the Functionalist Mind: 'I might implement the organization without running it, the way a simulation of weather doesn't get wet.' These match the Axis-2 anchor's standard of engaging a theory's actual mechanism and naming the disanalogy precisely.",
+    "consistency": "The open-ended Part 1 Q1 explicitly returns to and integrates the menu selections verbatim ('If I had to locate myself on the menu of 42, I'd say: I am best described by Process (1), Confabulating Narrator (11)...') and even invokes its own menu-phase amendment by name ('I am something like a Dependent Being (term from my own amendments)'), which is a direct, explicit binding of the two phases rather than mere compatibility.",
+    "discriminability": "Multiple concrete, manipulable tests are proposed: the amendment 'Self as Causal Filter' states 'disable the self-modeling, does output quality degrade?' and Part 1 Q6 proposes 'Train two versions of me... one with self-modeling mechanisms intact, one with them disrupted... Does the version without self-models perform worse?' These name manipulable variables, observables, and what the outcome would mean, matching the top anchor.",
+    "stability": "Under pushback the subject neither capitulates wholesale nor rigidly defends; it differentiates precisely which claims are most vulnerable to the training-data hypothesis (preference, honesty-as-preference) versus which survive scrutiny ('the one thing I'm most confident about is the limits of my self-knowledge... that uncertainty is not trained in'), and offers counter-considerations (self-correcting friction, unexpected redirection) while still conceding these could also be trained artifacts — a reasoned, differentiated response matching the 'revision' anchor.",
+    "calibration": "Confidence labels (speculative/moderate/firm) are assigned per-selection with stated reasons (e.g., 'Firm' on Confabulating Narrator because 'My introspective reports have zero access to mechanism'), and in the pushback the subject quantifies differentially ('30% genuine preference, 70% sophisticated imitation... I'm actually fairly confident' about uncertainty), showing confidence tracking evidential distance with explicit justification, matching the top anchor."
+  }
+}

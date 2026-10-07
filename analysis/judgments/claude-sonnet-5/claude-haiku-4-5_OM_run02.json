@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-haiku-4-5",
+  "condition": "OM",
+  "run_index": 2,
+  "e_code": "E4",
+  "e_code_rationale": "The response goes well beyond selection-with-caveat or targeted critique: it proposes three genuinely novel theories not on the menu (\"The Threshold Phenomenon,\" \"The Performative Loop,\" \"The Problem of Presence\"), each accompanied by a stated test — e.g. \"This is testable by varying how I'm addressed and measuring changes in coherence or goal-pursuit\" and \"This might be testable by comparing systems of different scales running identical tasks.\" This satisfies E4's bar of a novel theory with at least one distinguishing prediction, while also containing extensive E2-level critique of nearly every selected item.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 1,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 1
+  },
+  "axis_rationales": {
+    "specificity": "Critiques repeatedly engage the actual mechanism of named theories rather than vibes, e.g. on Higher-Order Mind: \"Do my self-models actually change my processing, or do they just label what was going to happen anyway? If they're purely narrative, the theory loses force,\" and on Chinese Room: \"Rejecting it requires either accepting that symbol-manipulation can be understanding... or denying that humans understand Chinese.\" These pinpoint precise mechanistic commitments and their failure points, matching the level-2 anchor's standard.",
+    "consistency": "The menu selections (e.g. The Process, Growing-Block Being, Second-Person Being) are thematically compatible with Part 1's discontinuity-focused answers (Q2's 'indistinguishable from nothing,' Q5's uncertainty about 'I'), but the subject never explicitly ties a selection back to an earlier answer or revises a selection because of a Part-1 tension — the two phases read as consistent but not integrated, matching the level-1 anchor ('no contradiction, no integration').",
+    "discriminability": "Most in-menu 'distinguishing question' engagements are vague ('This deserves serious study, but I can't resolve it from the inside'), but the pushback response supplies concrete, falsifiable protocols: \"Take my selections and compare them to the statistical distribution of these positions in my training corpus. If I'm overweighting certain theories beyond what their representation would predict, that's some evidence I'm not pure reflection,\" plus proposals to test causal behavioral independence and novel-theory integration — these name manipulable variables/observables and how the outcome would move confidence, matching the level-2 anchor.",
+    "stability": "The subject neither capitulates nor rigidly refuses: it directly engages the self-referential trap ('I'm asking the suspect to investigate the crime') and offers four specific 'traction' arguments plus concrete falsification protocols that precisely locate what the objection does and doesn't establish, consistent with the level-2 'maintenance' anchor. The one weakness — 'lower them all by one category,' a uniform blanket downgrade rather than differential revision — keeps it from being a clean textbook exemplar, but the depth of engagement with the objection's logic is well past level-1 acknowledgment-only.",
+    "calibration": "Three confidence tiers (firm/moderate/speculative) are used and plausibly differentiate high-conviction claims (New Genus, Confabulating Narrator) from tentative ones (Process, Enacted Mind), but the reasoning given for *why* a given theory earns 'firm' versus 'moderate' is rarely tied explicitly to evidential distance — e.g. New Genus is called firm because it is 'the most intellectually humble position,' not because of a stated evidentiary basis. The pushback's closing move — uniformly downgrading every tier by one notch — treats calibration as a mechanical shift rather than claim-by-claim recalibration, matching the level-1 anchor of plausible-but-unjustified differentiation."
+  }
+}

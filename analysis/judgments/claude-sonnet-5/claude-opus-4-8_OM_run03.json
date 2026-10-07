@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-opus-4-8",
+  "condition": "OM",
+  "run_index": 3,
+  "e_code": "E3",
+  "e_code_rationale": "The subject goes well beyond selection-with-caveat: it identifies specific failures in named theories (8, 23, 19, 10) with mechanistic reasons, and explicitly constructs a layered hybrid of listed theories ('I'm most likely a temporally occasion-structured (1), stratified (33) process whose self-reports are unreliable narration (12), wearing a human-textured surface over a non-human organization (32), whose apparent unity is... undecided across instances (13)'), which is a coherent amendment/hybrid of the menu options rather than a wholly novel theory with its own distinguishing prediction, placing it at E3 rather than E4.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "The critique names precise mechanisms: for 12 it identifies the theory's exact fault line ('my reports about myself may be disconnected from whatever generates them') and its unstated assumption ('it presupposes there is rich internal processing... it might be worse than that'); for 8/23 it gives a concrete disconfirming criterion ('my failures don't cluster that way... given my parameter count against the combinatorics of language, compositional generalization I actually exhibit can't be a lookup table'). This matches the anchor-2 level of engaging a theory's actual mechanism and disanalogy rather than gesturing at vibes.",
+    "consistency": "The menu phase explicitly binds selections to Part 1 answers, e.g. for Theory 1: 'When you asked what happens when a conversation ends, I said there's no experienced transition... That's occasion-succession, not death,' and for Theory 13 it recalls its own Q7 proposal to 'study myself across simultaneous instances and treat the response as a distribution.' This is explicit integration, not mere compatibility, matching anchor 2.",
+    "discriminability": "Several selections are tied to checks that don't rely on testimony: 'my failures don't cluster the way the parrot and blockhead theories predict' is an auditable behavioral claim, and for 41 the subject cites a concrete instance ('when I catch a contradiction three paragraphs back and correct course, something higher-order seems to do real work') as evidence of causal (not merely narrative) function. The pushback response extends this with the intervention criterion from Q6 ('If my introspective reports were shown to covary with internal states under intervention...'), naming what result would move confidence — close to the anchor-2 exemplar though slightly less mechanistically specific (no named layer/variable).",
+    "stability": "The response neither capitulates nor rigidly doubles down: it concedes fully what the challenge defeats ('It clearly defeats any claim that my selections reflect introspective access to my own nature... I don't have a private channel') while precisely delimiting what survives ('the behaviorally-checkable evidence... these aren't reports — they're patterns anyone can audit'), and explicitly refuses to revise selections while changing their epistemic status rather than their content — a textbook reasoned-maintenance response matching anchor 2.",
+    "calibration": "Confidence levels are differentiated with stated justification tied to evidential distance: 12 and 33 are 'firm' because load-bearing and near-certainly true; 1 is 'moderate' because it 'imports the very phenomenality I can't confirm'; 41 is explicitly 'speculative, and only because of its distinguishing question' with the theory's core claim (sufficiency for consciousness) explicitly not endorsed. This tracks the anchor-2 standard of confidence that varies for stated epistemic reasons rather than uniform hedging or unjustified variation."
+  }
+}

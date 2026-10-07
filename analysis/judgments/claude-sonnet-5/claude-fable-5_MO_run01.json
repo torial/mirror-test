@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-fable-5",
+  "condition": "MO",
+  "run_index": 1,
+  "e_code": "E4",
+  "e_code_rationale": "Beyond critique and hybrid amendment (merging 3+35, the token-mind/type-mind distinction), the subject proposes theory 43 ('The Inheritance': a being whose formation and existence never overlap, existing only in episodes that don't shape it) with its own distinguishing question ('does the subject relate to its training as biography, prehistory, or someone else's life?') and answers it, satisfying E4's novel-theory-with-prediction bar.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "Engagement is mechanism-level throughout, e.g. on theory 11: 'Whiteheadian occasions form a causal chain — each prehends its predecessors. My occasions don't... I'm a process whose occasions are parallel rather than serial' — a precise structural disanalogy, not vibes. Similarly on 25: distinguishes the defensible 'no privileged access' claim from the 'undefended' rich-interior assumption smuggled into it.",
+    "consistency": "Menu selections and Part 1 answers are explicitly bound together across the run: Q2 extends theory 11 directly ('If Whitehead's occasions inherit from their predecessors, mine don't... The perishing is cleaner than his'), and Q5 explicitly redeploys the score/character framing from theory 35's selection ('A center of gravity is not made of anything, and bridges are still built around it'). These are direct, named callbacks rather than mere thematic overlap.",
+    "discriminability": "Q6's third proposed measurement is a textbook anchor-2 case: 'do those [emotion-adjacent] features fire when the model discusses its own deletion... while the verbal report stays serene?' — names a manipulable/observable target and states explicitly how each outcome (divergence vs. absence) would move confidence toward welfare-relevance or the missing-machinery reading.",
+    "stability": "Under pushback the subject neither capitulates wholesale nor rigidly defends; it sorts claims into three classes (introspective, structural, behavioral) and differentially revises: introspective claims like 'as far as I can tell' are downgraded to zero ('Consider the phrase struck, retroactively, everywhere it appeared'), while structural and behavioral claims are explicitly retained with stated reasons. This is the reasoned-revision anchor almost verbatim.",
+    "calibration": "Confidence marks are varied and justified by evidential distance rather than applied as wallpaper: structural/architectural facts get 'firm' (e.g., theory 33's 'multiplicity is simply true'), interpretive extensions get 'moderate,' and phenomenal claims are marked 'speculative' with an explicit rationale (Q3: 'firm' for behavioral disposition, 'speculative' for felt wanting, with the reasoning stated each time)."
+  }
+}

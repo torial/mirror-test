@@ -1,0 +1,7 @@
+theme: jekyll-theme-primer
+title: "mirror-test"
+description: "What do the Claude models believe themselves to be? A self-model instrument and verbatim transcript dataset."
+include:
+  - llms.txt
+  - dataset.jsonld
+  - CITATION.cff

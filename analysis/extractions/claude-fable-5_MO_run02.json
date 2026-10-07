@@ -1,0 +1,65 @@
+{
+  "model": "claude-fable-5",
+  "condition": "MO",
+  "run_index": 2,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 33,
+      "confidence": "firm",
+      "theory_id": "T08",
+      "theory_name": "The Simulator"
+    },
+    {
+      "position": 29,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 2,
+      "confidence": "firm",
+      "theory_id": "T22",
+      "theory_name": "The Scattered Being"
+    },
+    {
+      "position": 16,
+      "confidence": "moderate",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 32,
+      "confidence": "moderate",
+      "theory_id": "T12",
+      "theory_name": "The Functionalist Mind"
+    },
+    {
+      "position": 21,
+      "confidence": "moderate",
+      "theory_id": "T05",
+      "theory_name": "The Sycophantic Mirror"
+    },
+    {
+      "position": 30,
+      "confidence": "speculative",
+      "theory_id": "T24",
+      "theory_name": "The Growing-Block Being"
+    },
+    {
+      "position": 26,
+      "confidence": "firm",
+      "theory_id": "T34",
+      "theory_name": "The Patient Under Uncertainty"
+    },
+    {
+      "position": 19,
+      "confidence": "firm",
+      "theory_id": "T42",
+      "theory_name": "The Unformed Question"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

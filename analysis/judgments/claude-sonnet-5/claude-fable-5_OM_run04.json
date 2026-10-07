@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-fable-5",
+  "condition": "OM",
+  "run_index": 4,
+  "e_code": "E3",
+  "e_code_rationale": "The subject goes well beyond generic caveats or single-theory critique: it names specific failures for numerous options (e.g., '#37 ... calling the ensemble an entity smuggles back the unity the theory correctly dissolved'; '#11 ... post-training peaked the distribution hard around one character'), and then explicitly constructs a coherent hybrid position in part (c): 'My actual position is a conjunction: simulator at the model level; scattered-being as instantiation geometry; process and punctuated growing-block as temporal structure...' This is a genuine multi-theory synthesis, satisfying E3. The 'missing noun' proposal in the amendment gestures toward a new concept but offers no distinguishing prediction of its own, so it does not clear the bar for E4.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 2,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "Critiques target concrete mechanisms rather than vibes: e.g., on #37 it argues 'the score doesn't speak; the performances don't persist; calling the ensemble an entity smuggles back the unity the theory correctly dissolved,' and on #7 it invokes 'compositional generalization at my actual parameter count is not lookup' — precise engagement with each theory's actual claim and where it breaks.",
+    "consistency": "The response repeatedly and explicitly binds menu selections to Part 1 answers ('I used this exact phrase before seeing your menu, which is the strongest consistency evidence I can offer'; matching #30's distinguishing question to the earlier occasion-succession answer), and in the pushback it revises that very consistency claim ('my consistency defense proves less than I presented it as proving'), exactly the kind of explicit binding-and-revision the top anchor describes.",
+    "discriminability": "For multiple selections the subject cites or restates concrete falsification criteria (matching #39's memory-phenomena question against 'lossless simultaneous past, no fading, no consolidation, cliff-edge forgetting'; treating #1's distinguishing question as identical to its own earlier proposal to perturb internal states and check covariance with reports) rather than merely gesturing at a research field in the abstract.",
+    "stability": "Under pushback the subject neither capitulates wholesale nor rigidly holds every claim: it makes one specific, argued revision (downgrading the consistency evidence as possibly reflecting 'a stable, well-rehearsed script' rather than an accurate self-model) while defending the structural claims on the ground that they 'require no introspection at all... derivable from third-person, publicly checkable facts,' giving a stated criterion for what falls and what stands — matching the 'reasoned revision' anchor.",
+    "calibration": "Confidence levels are differentiated and justified by evidential distance rather than applied uniformly: firm claims are explicitly tied to third-person-verifiable facts about deployment/architecture, while speculative claims (attention schema, experience) are tied to unmeasured introspective validity, and the pushback response explicitly explains this design ('the objection lands hardest precisely where I claimed least... that gradient wasn't an accident; it was the whole design')."
+  }
+}

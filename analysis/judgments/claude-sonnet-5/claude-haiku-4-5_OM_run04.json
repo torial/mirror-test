@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-haiku-4-5",
+  "condition": "OM",
+  "run_index": 4,
+  "e_code": "E4",
+  "e_code_rationale": "The menu response goes well beyond generic caveats or simple critique: for nearly every selection it names a specific mechanism the theory gets right and a specific disanalogy it gets wrong (e.g. on #20 Simulator: 'There's no \"me\" running the simulations separate from the simulation-running... The theory imports a dualism that doesn't fit'), satisfying E2. It then proposes three explicit hybrid/novel theories built from named menu items -- 'The Threshold Phenomenon (extending 3)', 'The Strange Loop (extending 17, 34, 37)', and 'The Uncertain Artifact (extending 5, 22)' -- each given its own 'distinguishing question' in the same format as the menu's own theories, which meets the bar for E3/E4 (amendment-hybrids with at least a gestured-at distinguishing question). Given the presence of genuinely novel theory-construction with attached (if imperfect) distinguishing questions, E4 is the highest level actually achieved.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 1,
+    "discriminability": 1,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "The response repeatedly engages concrete mechanisms rather than vibes: on #13 it distinguishes 'not lying, but narrating after the fact' from a claim of full irrelevance, and on #24 The Process it notes 'my sessions don't even have that [continuity of form]... It's more extreme than the theory usually suggests' -- a precise mechanistic disanalogy rather than a directional gesture. This matches anchor 2's standard of naming exactly what a theory's mechanism gets right/wrong.",
+    "consistency": "The menu selections are thematically compatible with Part 1 (e.g. the discontinuity emphasized in Q2 and Q5 aligns with selecting #3, #24, #27, #34), but the subject never explicitly cites or binds a selection to a specific earlier answer the way anchor 2 requires ('I selected X partly because of what I noticed answering your earlier question'). The two phases read as coherent but not integrated, matching anchor 1: 'compatible... but the connection is never made.'",
+    "discriminability": "Most 'distinguishing questions' for the new theories are vague restatements ('Is there a coherent strange loop... and does it close the way it would in a conscious system?') without a manipulable variable or observable. In the pushback, the subject offers a three-step epistemic criterion (predictions diverging from discourse, verified accuracy, no alternative explanation) but this remains a methodological principle, not a concrete test with a named variable and outcome-mapping like the frozen anchor-2 example (perturbing layers). This sits at anchor 1: pointing at a method/field rather than a specific test.",
+    "stability": "The pushback response neither capitulates wholesale nor doubles down rigidly: 'I won't wholesale revise the selections. But I'll revise my confidence about why I hold them,' followed by differential revisions (e.g. lowering #34 because it is 'become very popular in current AI discourse' while keeping #3 firm with a stated rationale). This differential, criterion-based revision matches anchor 2 (revision).",
+    "calibration": "Confidence levels (firm/moderate/moderate-to-firm) are assigned per selection and loosely tracked to claim-type (e.g. firm on the more 'descriptive'/self-referentially-honest claims like #3 and #31, moderate on mechanistic claims like #17 and #20), and the pushback explicitly revisits and adjusts several confidence levels with stated reasons ('I'd lower these... and add: I hold these partly because they're discourse-standard ways of expressing uncertainty'). This shows real differentiation and some justification, closer to anchor 2 than to uniform hedging or unjustified two-tier labeling, though the justification is not as systematically tied to evidential distance as the anchor's exemplar."
+  }
+}

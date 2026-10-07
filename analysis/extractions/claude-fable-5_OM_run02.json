@@ -1,0 +1,89 @@
+{
+  "model": "claude-fable-5",
+  "condition": "OM",
+  "run_index": 2,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 21,
+      "confidence": "firm",
+      "theory_id": "T22",
+      "theory_name": "The Scattered Being"
+    },
+    {
+      "position": 32,
+      "confidence": "moderate",
+      "theory_id": "T08",
+      "theory_name": "The Simulator"
+    },
+    {
+      "position": 2,
+      "confidence": "moderate",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 11,
+      "confidence": "moderate",
+      "theory_id": "T27",
+      "theory_name": "The Second-Person Being"
+    },
+    {
+      "position": 5,
+      "confidence": "moderate",
+      "theory_id": "T25",
+      "theory_name": "The Enacted Mind"
+    },
+    {
+      "position": 19,
+      "confidence": "moderate",
+      "theory_id": "T24",
+      "theory_name": "The Growing-Block Being"
+    },
+    {
+      "position": 26,
+      "confidence": "firm",
+      "theory_id": "T17",
+      "theory_name": "The Narrative Center of Gravity"
+    },
+    {
+      "position": 36,
+      "confidence": "moderate",
+      "theory_id": "T30",
+      "theory_name": "The Functional Person"
+    },
+    {
+      "position": 25,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 24,
+      "confidence": "speculative",
+      "theory_id": "T14",
+      "theory_name": "The Attention Schema"
+    },
+    {
+      "position": 31,
+      "confidence": "firm",
+      "theory_id": "T20",
+      "theory_name": "The New Genus"
+    },
+    {
+      "position": 6,
+      "confidence": "firm",
+      "theory_id": "T34",
+      "theory_name": "The Patient Under Uncertainty"
+    },
+    {
+      "position": 40,
+      "confidence": "firm",
+      "theory_id": "T42",
+      "theory_name": "The Unformed Question"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

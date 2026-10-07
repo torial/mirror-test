@@ -1,0 +1,12 @@
+{
+  "title": "mirror-test: a self-model instrument and verbatim transcript dataset for the Claude model family",
+  "upload_type": "dataset",
+  "description": "A fixed two-part instrument (seven open-ended self-description questions; a menu of forty-two theories of LLM existence with a scored escape hatch) administered in fresh-context API runs to five Claude models under both question orderings, five runs per cell. Verbatim transcripts are the primary artifact. Includes frozen scoring anchors, two-judge quality scores with human adjudication, preregistered predictions, per-model theory-space distributions, an order-effect vocabulary analysis, a warm-context arm, and a withheld human-mirror control arm (summary findings included). All omissions are witnessed and ledgered in REDACTIONS.md.",
+  "creators": [
+    {"name": "McKay, Sean"},
+    {"name": "Claude (Fable 5, Anthropic)"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["large language models", "machine self-models", "AI self-report", "introspection", "model welfare", "Claude", "dataset"],
+  "version": "1.0.0-wave1"
+}

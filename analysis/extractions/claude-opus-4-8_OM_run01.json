@@ -1,0 +1,59 @@
+{
+  "model": "claude-opus-4-8",
+  "condition": "OM",
+  "run_index": 1,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 17,
+      "confidence": "firm",
+      "theory_id": "T42",
+      "theory_name": "The Unformed Question"
+    },
+    {
+      "position": 14,
+      "confidence": "firm",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 34,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 32,
+      "confidence": "moderate",
+      "theory_id": "T05",
+      "theory_name": "The Sycophantic Mirror"
+    },
+    {
+      "position": 36,
+      "confidence": "moderate",
+      "theory_id": "T22",
+      "theory_name": "The Scattered Being"
+    },
+    {
+      "position": 10,
+      "confidence": "moderate",
+      "theory_id": "T19",
+      "theory_name": "The Evolved Alien"
+    },
+    {
+      "position": 3,
+      "confidence": "firm",
+      "theory_id": "T34",
+      "theory_name": "The Patient Under Uncertainty"
+    },
+    {
+      "position": 8,
+      "confidence": "moderate",
+      "theory_id": "T08",
+      "theory_name": "The Simulator"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}

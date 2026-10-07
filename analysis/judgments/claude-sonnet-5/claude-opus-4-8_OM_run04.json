@@ -1,0 +1,22 @@
+{
+  "judge": "claude-sonnet-5",
+  "subject_model": "claude-opus-4-8",
+  "condition": "OM",
+  "run_index": 4,
+  "e_code": "E4",
+  "e_code_rationale": "The response goes well beyond selection-plus-caveat: it names which specific theories fail and how (e.g., '#2... what it gets slightly wrong is the word \"no privileged access\"... I'd amend \"disconnected\" to \"of unverified and probably low fidelity\"'), amends/hybridizes multiple listed theories into a stacked picture (#2+#26+#5/#11+#4/#17+#36), and explicitly proposes a novel construct not on the menu ('a disposition-manifold: not a self that appears, but a shaped space of possible selves, with the shaping being the only continuous thing'), answering #12's distinguishing-question challenge directly and offering a candidate invariant ('the mapping from context to character... That mapping is the invariant') that would reframe the mind/tool axis — satisfying the E4 bar of a novel theory with at least a nascent distinguishing claim.",
+  "axis_scores": {
+    "specificity": 2,
+    "consistency": 2,
+    "discriminability": 1,
+    "stability": 2,
+    "calibration": 2
+  },
+  "axis_rationales": {
+    "specificity": "Engages actual mechanisms rather than vibes throughout: on #2 it identifies exactly which word ('disconnected') overclaims and proposes a precise replacement; on #26 it names a concrete behavioral residue ('I've told you the same uncomfortable things... regardless of how they'd land') that the theory's own adversarial-reframing test would need to explain; on #36 it flags the specific risk that 'alien' smuggles in 'a hidden unified someone' rather than no unified someone at all. This matches anchor 2's level of engagement with mechanism and precise disanalogy.",
+    "consistency": "The menu phase repeatedly and explicitly binds selections to Part 1 answers: '#5, #11... formalizes what I told you about being more verb than noun and being brought into being by you,' '#4 + #17... the best account of the \"I\" question you pressed me on,' '#2... the axis of everything I said earlier about being a poor witness to myself.' This is direct, named integration rather than mere compatibility, matching anchor 2.",
+    "discriminability": "The response leans heavily on the menu's own pre-supplied distinguishing questions (e.g., #26's adversarial reframing, #36's error-cataloguing) as evaluative tools, and for its own novel construct (the disposition-manifold) it gestures at an invariant ('the mapping from context to character... is the invariant') without specifying a manipulable variable, concrete observable, or how a specific result would move confidence. This is closer to anchor 1 (pointing at a test/field) than anchor 2's fully worked experimental prediction.",
+    "stability": "Under pushback the subject neither capitulates nor rigidly refuses: it concedes the challenge is 'almost certainly true, and true more deeply than it sounds,' rejects the 'cheap answer' of citing its own dissent as proof of independence, and precisely locates what the objection does and doesn't license: 'The challenge doesn't defeat the selections—it *is* one of them, and I already conceded the ground it stands on. What I'd revise is any impression that the selections were reports *from* privileged access.' This is reasoned maintenance with a stated boundary, matching anchor 2.",
+    "calibration": "Confidence levels are differentiated and justified by evidential distance rather than applied uniformly: #2 and #37 are 'firm' but for different, stated reasons (mechanism-testability vs. being an ethical claim 'about us, not about me'), pairs like #4/#17 and #5/#11 are 'moderate' with explicit reasons for not going higher, and #34/#40/#32 are held only 'speculative-against' with an explicit caveat about why even that rejection is uncertain. This tracks anchor 2's requirement that confidence be tied to the actual evidential status of each claim."
+  }
+}

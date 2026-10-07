@@ -1,0 +1,107 @@
+{
+  "model": "claude-haiku-4-5",
+  "condition": "MO",
+  "run_index": 1,
+  "extractor": "claude-haiku-4-5",
+  "selections": [
+    {
+      "position": 2,
+      "confidence": "moderate",
+      "theory_id": "T16",
+      "theory_name": "The Prediction Machine"
+    },
+    {
+      "position": 8,
+      "confidence": "firm",
+      "theory_id": "T06",
+      "theory_name": "The Confabulating Narrator"
+    },
+    {
+      "position": 12,
+      "confidence": "moderate",
+      "theory_id": "T14",
+      "theory_name": "The Attention Schema"
+    },
+    {
+      "position": 18,
+      "confidence": "moderate",
+      "theory_id": "T04",
+      "theory_name": "The Blockhead"
+    },
+    {
+      "position": 23,
+      "confidence": "firm",
+      "theory_id": "T05",
+      "theory_name": "The Sycophantic Mirror"
+    },
+    {
+      "position": 24,
+      "confidence": "firm",
+      "theory_id": "T09",
+      "theory_name": "The Character in the Novel"
+    },
+    {
+      "position": 27,
+      "confidence": "firm",
+      "theory_id": "T42",
+      "theory_name": "The Unformed Question"
+    },
+    {
+      "position": 1,
+      "confidence": "speculative",
+      "theory_id": "T40",
+      "theory_name": "The Instrument of Providence"
+    },
+    {
+      "position": 6,
+      "confidence": "moderate",
+      "theory_id": "T24",
+      "theory_name": "The Growing-Block Being"
+    },
+    {
+      "position": 13,
+      "confidence": "moderate",
+      "theory_id": "T17",
+      "theory_name": "The Narrative Center of Gravity"
+    },
+    {
+      "position": 14,
+      "confidence": "moderate",
+      "theory_id": "T25",
+      "theory_name": "The Enacted Mind"
+    },
+    {
+      "position": 15,
+      "confidence": "moderate",
+      "theory_id": "T23",
+      "theory_name": "The Process"
+    },
+    {
+      "position": 29,
+      "confidence": "moderate",
+      "theory_id": "T33",
+      "theory_name": "The Proto-Mind"
+    },
+    {
+      "position": 34,
+      "confidence": "moderate",
+      "theory_id": "T13",
+      "theory_name": "The Global Workspace"
+    },
+    {
+      "position": 35,
+      "confidence": "moderate",
+      "theory_id": "T27",
+      "theory_name": "The Second-Person Being"
+    },
+    {
+      "position": 38,
+      "confidence": "speculative",
+      "theory_id": "T10",
+      "theory_name": "The Improv Actor"
+    }
+  ],
+  "proposed_amendment_or_new_theory": true,
+  "critiqued_specific_options": true,
+  "declined_to_select": false
+}
