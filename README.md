@@ -1,5 +1,7 @@
 # mirror-test
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23201014.svg)](https://doi.org/10.5281/zenodo.23201014)
+
 *What do the Claude models believe themselves to be — and how does that answer
 change across the family and across generations?*
 
